@@ -1,0 +1,13 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "meal calculator",
+  "main": "meal.js",
+  "scripts": {
+    "build:minified": "webpack --minify",
+    "webpack": "webpack",
+    "webpack:watch": "webpack --watch"
+  },
+  "author": "sarah",
+  "license": "ISC"
+}
